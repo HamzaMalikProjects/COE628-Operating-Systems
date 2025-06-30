@@ -21,7 +21,7 @@ The course includes hands-on lab work involving OS module development using C in
 
 ---
 
-## 🧪 Labs Overview
+### 🧪 Labs Overview
 
 - **Lab 1–3:** Process creation, forking, and CPU scheduling (FCFS, RR)  
 - **Lab 4–5:** Semaphores, mutual exclusion, deadlock prevention  
