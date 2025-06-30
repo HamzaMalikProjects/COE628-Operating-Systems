@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Course Overview
+### 📘 Course Overview
 
 COE628 explores the core principles of modern operating systems from an engineering perspective. It focuses on:
 
